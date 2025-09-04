@@ -1,0 +1,22 @@
+{
+  "name": "githubactionstcs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vardhantesting84/GitHubActionsTCS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vardhantesting84/GitHubActionsTCS/issues"
+  },
+  "homepage": "https://github.com/vardhantesting84/GitHubActionsTCS#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.0"
+  }
+}
